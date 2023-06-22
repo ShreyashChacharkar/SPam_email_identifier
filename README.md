@@ -13,3 +13,5 @@ Our goal is to predict whether the given mail is spam or not.
 
 
 #### Download data from [here](https://drive.google.com/file/d/1OxJ6SSuPypg-AfLbMRl0O9So9aDDNzbC/view)
+
+#### About classifiers used in project
